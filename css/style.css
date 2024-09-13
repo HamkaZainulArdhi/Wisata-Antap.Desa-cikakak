@@ -377,22 +377,22 @@ select.selectmenu {
   margin-bottom: 50px;
 }
 .c1 {
-  background-image: url(pasar.jpeg);
+  background-image: url(./pasar.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .c2 {
-  background-image: url(bersih.jpeg);
+  background-image: url(./bersih.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .c3 {
-  background-image: url(spot.jpg);
+  background-image: url(./spot.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .c4 {
-  background-image: url(sentral.jpeg);
+  background-image: url(./sentral.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
 }
